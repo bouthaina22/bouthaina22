@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bouthaina</h1>
 
-<p align="center">
-Computer Science Graduate | Web & Application Development
-</p>
+
 
 ---
-
-Computer Science graduate who enjoys building simple projects and learning new technologies.
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
