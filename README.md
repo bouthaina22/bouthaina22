@@ -15,10 +15,3 @@
 </p>
 
 
-
-###   Currently Learning
-
-JavaScript • React • Spring Boot • SQL
-
-
-</a>
